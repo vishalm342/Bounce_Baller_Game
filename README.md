@@ -108,4 +108,4 @@ Project Maintainer: Vishal M
 - GitHub: [@vishalm342](https://github.com/vishalm342)
 
 ## Deployed Game Link
-- https://bounceballergame.pages.dev/game
+- https://bounceballergame.pages.dev/
