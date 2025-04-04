@@ -24,7 +24,7 @@ Baller Bounce is a minimalist, single-player arcade-style game where players con
 ## 🛠️ Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/vishalm342/Bounce_Baller_Game.git
+git clone https://github.com/your-username/Bounce_Baller_Game.git
 cd Bounce_Baller_Game
 ```
 
@@ -58,17 +58,16 @@ Bounce_Baller_Game/
 │
 ├── src/
 │   ├── components/
-│   │   ├── GameBoard.jsx
-│   │   ├── Paddle.jsx
-│   │   └── Ball.jsx
+│   │   ├── Game.jsx
+│   │   ├── BounceBaller.jsx
+│   │   └── GameOverModal.jsx
+│   │   └── HomePage.jsx
+│   │   └── ScoreBoard.jsx
 │   │
-│   ├── pages/
-│   │   ├── HomePage.jsx
-│   │   └── GamePage.jsx
-│   │
-│   ├── utils/
-│   │   └── gameLogic.js
-│   │
+│   ├── hooks/
+│   │   ├── useGameLogic.js
+│   │   └── useGameLogic.jsx
+│   │  
 │   ├── App.jsx
 │   └── main.jsx
 │
@@ -107,3 +106,6 @@ Arcade-style games and mobile game design.
 ## 📞 Contact
 Project Maintainer: Vishal M
 - GitHub: [@vishalm342](https://github.com/vishalm342)
+
+## Deployed Game Link
+- https://bounceballergame.pages.dev/game
